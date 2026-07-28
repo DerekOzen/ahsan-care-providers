@@ -10,10 +10,11 @@
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
     "status": "published",
-    "updatedAt": "2026-07-28T10:56:56.673Z",
+    "updatedAt": "2026-07-28T10:57:02.130Z",
     "updatedBy": "derek",
     "createdAt": "2026-07-28T10:56:46.887Z",
     "createdBy": "derek",
-    "isHome": true
+    "isHome": true,
+    "category": "Home"
   }
 ]
