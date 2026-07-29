@@ -236,10 +236,11 @@
     "headerPartId": null,
     "footerPartId": null,
     "status": "published",
-    "updatedAt": "2026-07-29T06:29:59.642Z",
+    "updatedAt": "2026-07-29T06:33:58.664Z",
     "updatedBy": "dianne",
     "createdAt": "2026-07-29T06:29:47.814Z",
-    "createdBy": "dianne"
+    "createdBy": "dianne",
+    "category": "Locations"
   },
   {
     "id": "pg-17",
