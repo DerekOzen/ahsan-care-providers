@@ -112,5 +112,21 @@
     "updatedBy": "dianne",
     "createdAt": "2026-07-29T06:21:07.572Z",
     "createdBy": "dianne"
+  },
+  {
+    "id": "pg-9",
+    "path": "/nsw/ndis-provider-parramatta",
+    "type": "location",
+    "title": "NDIS provider Parramatta",
+    "seoTitle": "NDIS Provider Parramatta | Registered Disability Support | Ahsan Care",
+    "seoDescription": "Registered NDIS provider in Parramatta. Personal care, home help, community access and nursing across the City of Parramatta, with same-day appointment support. Call 0416 623 317.",
+    "layout": "mockup",
+    "headerPartId": null,
+    "footerPartId": null,
+    "status": "published",
+    "updatedAt": "2026-07-29T06:22:32.807Z",
+    "updatedBy": "dianne",
+    "createdAt": "2026-07-29T06:22:32.807Z",
+    "createdBy": "dianne"
   }
 ]
