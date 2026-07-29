@@ -1,0 +1,96 @@
+[
+  {
+    "id": "rev-1-432406",
+    "at": "2026-07-29T07:14:32.406Z",
+    "author": "derek",
+    "page": {
+      "id": "pg-20",
+      "path": "/thank-you",
+      "type": "page",
+      "title": "Thank You",
+      "seoTitle": "Thank You | Ahsan Care Provider",
+      "seoDescription": "Thank you for contacting Ahsan Care Provider. We have received your enquiry and a member of our team will be in touch.",
+      "layout": "mockup",
+      "headerPartId": "header-1",
+      "footerPartId": "footer-1",
+      "status": "published",
+      "updatedAt": "2026-07-29T07:14:32.406Z",
+      "updatedBy": "derek",
+      "createdAt": "2026-07-29T07:14:14.733Z",
+      "createdBy": "derek",
+      "blocks": [
+        {
+          "id": "b-1",
+          "type": "section",
+          "props": {
+            "label": "Confirm",
+            "role": "section",
+            "html": "<main id=\"confirm\">\n  <div class=\"card\">\n    <div class=\"accent\"></div>\n    <div class=\"body\">\n      <div class=\"mark\"><i class=\"fa-solid fa-circle-check\"></i></div>\n      <h1>Thank you for your enquiry</h1>\n      <p class=\"lead\">We have received your message and a member of the Ahsan Care team will be in touch with you.</p>\n      <p class=\"hours\">Our office hours are <strong>Monday to Friday, 9am to 5pm</strong>, and we will get back to you as soon as we can.</p>\n      <a class=\"btn\" href=\"file:///C:/\"><i class=\"fa-solid fa-arrow-left\"></i> Back to homepage</a>\n      <div class=\"callrow\">\n        <span class=\"label\">Need to speak with someone sooner</span>\n        <a href=\"tel:0433650084\">Melbourne 0433 650 084</a>\n        <span class=\"sep\">|</span>\n        <a href=\"tel:0416623317\">Sydney 0416 623 317</a>\n      </div>\n    </div>\n  </div>\n</main>"
+          }
+        }
+      ],
+      "css": "\n:root{\n  --blue:#0088C0;\n  --teal:#00A890;\n  --grey:#888888;\n  --deep:#0A3A52;\n  --tint:#eef6fb;\n  --tint2:#e8f7f2;\n  --ink:#1b2733;\n  --line:#e2e8ee;\n  --grad:linear-gradient(135deg,var(--blue),var(--teal));\n}\n*{box-sizing:border-box;margin:0;padding:0}\nhtml{scroll-behavior:smooth}\nbody{\n  font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif;\n  color:var(--ink);\n  background:#ffffff;\n  line-height:1.6;\n  -webkit-font-smoothing:antialiased;\n  display:flex;\n  flex-direction:column;\n  min-height:100vh;\n}\na{color:var(--blue);text-decoration:none}\na:hover{text-decoration:underline}\nimg{max-width:100%;display:block}\n:focus-visible{outline:3px solid var(--blue);outline-offset:2px}\n\n/* Skip link */\n.skip{position:absolute;left:-999px;top:auto;background:var(--deep);color:#fff;padding:10px 16px;border-radius:6px;z-index:200}\n.skip:focus{left:16px;top:12px}\n\n/* Utility bar */\n.util{background:var(--deep);color:#dbe7ef;font-size:.85rem}\n.util .wrap{display:flex;flex-wrap:wrap;gap:8px 22px;align-items:center;justify-content:center;padding:8px 20px}\n.util a{color:#dbe7ef}\n.util i{color:var(--teal);margin-right:6px}\n\n/* Header */\n.wrap{max-width:1160px;margin:0 auto}\nheader.site{border-bottom:1px solid var(--line);position:sticky;top:0;background:rgba(255,255,255,.96);backdrop-filter:blur(6px);z-index:100}\n.bar{display:flex;align-items:center;justify-content:space-between;padding:14px 20px}\n.brand{display:flex;align-items:center;gap:12px}\n.brand img{height:46px;width:auto}\n.brand .fallback{font-weight:800;font-size:1.25rem;color:var(--deep);letter-spacing:.2px}\nnav.main ul{list-style:none;display:flex;align-items:center;gap:4px}\nnav.main a.link{display:block;padding:10px 14px;color:var(--ink);font-weight:600;font-size:.95rem;border-radius:8px}\nnav.main a.link:hover{background:var(--tint);text-decoration:none;color:var(--deep)}\n.has-sub{position:relative}\n.has-sub>button{\n  font:inherit;font-weight:600;font-size:.95rem;color:var(--ink);\n  background:none;border:0;cursor:pointer;padding:10px 14px;border-radius:8px;display:flex;align-items:center;gap:6px\n}\n.has-sub>button:hover{background:var(--tint);color:var(--deep)}\n.has-sub>button i{font-size:.75rem;transition:transform .2s}\n.submenu{\n  position:absolute;top:100%;left:0;min-width:250px;background:#fff;border:1px solid var(--line);\n  border-radius:10px;box-shadow:0 14px 34px rgba(10,58,82,.14);padding:8px;display:none;z-index:120\n}\n.submenu a{display:block;padding:9px 12px;border-radius:7px;color:var(--ink);font-size:.92rem;font-weight:500}\n.submenu a:hover{background:var(--tint);text-decoration:none;color:var(--deep)}\n.has-sub:hover .submenu,.has-sub.open .submenu{display:block}\n.has-sub.open>button i{transform:rotate(180deg)}\n.cta-head{background:var(--deep);color:#fff !important;padding:11px 18px !important;border-radius:8px !important}\n.cta-head:hover{background:#0d4b6b;text-decoration:none}\n.burger{display:none;background:none;border:0;font-size:1.5rem;color:var(--deep);cursor:pointer;padding:6px 10px}\n\n/* Main confirmation */\nmain{flex:1;display:flex;align-items:center;justify-content:center;background:\n  radial-gradient(circle at 15% 15%,var(--tint2),transparent 45%),\n  radial-gradient(circle at 85% 20%,var(--tint),transparent 42%),\n  var(--tint);\n  padding:64px 20px}\n.card{\n  background:#fff;max-width:640px;width:100%;border-radius:20px;\n  box-shadow:0 24px 60px rgba(10,58,82,.12);\n  border:1px solid var(--line);\n  overflow:hidden;text-align:center\n}\n.card .accent{height:6px;background:var(--grad)}\n.card .body{padding:52px 44px 48px}\n.mark{\n  width:96px;height:96px;border-radius:50%;margin:0 auto 26px;\n  background:var(--grad);display:flex;align-items:center;justify-content:center;\n  box-shadow:0 12px 26px rgba(0,136,192,.32)\n}\n.mark i{color:#fff;font-size:2.6rem;line-height:1}\nh1{font-size:2rem;line-height:1.2;color:var(--deep);font-weight:800;letter-spacing:-.3px;margin-bottom:16px}\n.lead{font-size:1.08rem;color:#3c4a57;margin:0 auto 12px;max-width:500px}\n.hours{font-size:1rem;color:var(--grey);margin:0 auto 32px;max-width:500px}\n.hours strong{color:var(--deep)}\n.btn{\n  display:inline-flex;align-items:center;gap:10px;background:var(--deep);color:#fff;\n  font-weight:700;font-size:1.02rem;padding:15px 30px;border-radius:10px;\n  box-shadow:0 8px 20px rgba(10,58,82,.22);transition:transform .15s,background .2s\n}\n.btn:hover{background:#0d4b6b;text-decoration:none;transform:translateY(-2px)}\n.btn i{font-size:.95rem}\n.callrow{margin-top:26px;padding-top:24px;border-top:1px solid var(--line);font-size:.97rem;color:#3c4a57}\n.callrow .label{display:block;color:var(--grey);font-size:.85rem;text-transform:uppercase;letter-spacing:.6px;margin-bottom:8px}\n.callrow a{font-weight:700;color:var(--blue);white-space:nowrap}\n.callrow .sep{color:var(--line);margin:0 12px}\n\n/* Footer */\nfooter.site{background:#fff;border-top:1px solid var(--line);color:#3c4a57}\n.foot{display:grid;grid-template-columns:1.5fr 1fr 1fr;gap:36px;padding:52px 20px 30px}\n.foot h4{color:var(--deep);font-size:.95rem;text-transform:uppercase;letter-spacing:.6px;margin-bottom:16px}\n.foot img.flogo{height:44px;margin-bottom:14px}\n.foot p{font-size:.93rem;margin-bottom:10px;max-width:320px}\n.foot ul{list-style:none}\n.foot li{margin-bottom:9px;font-size:.93rem}\n.foot a{color:#3c4a57}\n.foot a:hover{color:var(--blue)}\n.foot .contact li{display:flex;gap:10px;align-items:flex-start}\n.foot .contact i{color:var(--teal);margin-top:4px;width:16px;text-align:center}\n.socials{display:flex;gap:10px;margin-top:16px;flex-wrap:wrap}\n.socials a{\n  width:38px;height:38px;border-radius:9px;background:var(--tint);color:var(--deep);\n  display:flex;align-items:center;justify-content:center;font-size:1rem\n}\n.socials a:hover{background:var(--grad);color:#fff;text-decoration:none}\n.legal{border-top:1px solid var(--line);padding:18px 20px;text-align:center;font-size:.85rem;color:var(--grey)}\n.legal a{color:var(--grey)}\n\n@media(max-width:860px){\n  .burger{display:block}\n  nav.main{position:absolute;top:100%;left:0;right:0;background:#fff;border-bottom:1px solid var(--line);\n    box-shadow:0 18px 30px rgba(10,58,82,.10);display:none;padding:10px}\n  header.site.nav-open nav.main{display:block}\n  nav.main ul{flex-direction:column;align-items:stretch;gap:2px}\n  nav.main a.link,.has-sub>button{width:100%;font-size:1rem}\n  .has-sub>button{justify-content:space-between}\n  .submenu{position:static;box-shadow:none;border:0;padding:2px 0 6px 14px;min-width:0}\n  .cta-head{text-align:center;justify-content:center;display:flex}\n  .foot{grid-template-columns:1fr;gap:30px}\n}\n@media(max-width:520px){\n  .card .body{padding:40px 24px 40px}\n  h1{font-size:1.6rem}\n  .callrow .sep{display:block;height:6px;margin:0}\n}\n@media(prefers-reduced-motion:reduce){*{transition:none !important;scroll-behavior:auto !important}}\n",
+      "fonts": [],
+      "body": "",
+      "_schemas": [
+        {
+          "type": "Organization",
+          "data": {
+            "@type": "Organization",
+            "@id": "https://ahsancareprovider.com.au/#organization",
+            "name": "Ahsan Care Provider",
+            "url": "https://ahsancareprovider.com.au/",
+            "logo": "https://ahsancareprovider.com.au/assets/images/ahsan-care-logo.png",
+            "email": "info@ahsancareprovider.com.au",
+            "telephone": "+61433650084",
+            "sameAs": [
+              "https://facebook.com/ahsancareprovider",
+              "https://instagram.com/ahsancare",
+              "https://linkedin.com/company/ahsan-care",
+              "https://pinterest.com/ahsancareprovider",
+              "https://youtube.com/@AhsanCare",
+              "https://tiktok.com/@ahsancare7",
+              "https://quora.com/profile/Ahsan-Care"
+            ]
+          }
+        },
+        {
+          "type": "WebPage",
+          "data": {
+            "@type": "WebPage",
+            "@id": "https://ahsancareprovider.com.au/thank-you/#webpage",
+            "url": "https://ahsancareprovider.com.au/thank-you/",
+            "name": "Thank You | Ahsan Care Provider",
+            "description": "Thank you for contacting Ahsan Care Provider. We have received your enquiry and a member of our team will be in touch.",
+            "isPartOf": {
+              "@id": "https://ahsancareprovider.com.au/#organization"
+            },
+            "publisher": {
+              "@id": "https://ahsancareprovider.com.au/#organization"
+            }
+          }
+        },
+        {
+          "type": "BreadcrumbList",
+          "data": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://ahsancareprovider.com.au/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Thank You",
+                "item": "https://ahsancareprovider.com.au/thank-you/"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+]
