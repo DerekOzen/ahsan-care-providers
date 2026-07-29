@@ -32,5 +32,21 @@
     "createdAt": "2026-07-29T03:54:08.438Z",
     "createdBy": "ishan",
     "isHome": false
+  },
+  {
+    "id": "pg-3",
+    "path": "/vic/ndis-provider-frankston/",
+    "type": "location",
+    "title": "NDIS provider Frankston",
+    "seoTitle": "NDIS Provider Frankston | Registered Disability Support | Ahsan Care",
+    "seoDescription": "Registered NDIS provider across Frankston, from Seaford to Langwarrin. Calm help to make the most of a first NDIS plan, without rushing to sign. Call 0433 650 084.",
+    "layout": "mockup",
+    "headerPartId": null,
+    "footerPartId": null,
+    "status": "published",
+    "updatedAt": "2026-07-29T06:12:15.852Z",
+    "updatedBy": "dianne",
+    "createdAt": "2026-07-29T06:12:15.852Z",
+    "createdBy": "dianne"
   }
 ]
