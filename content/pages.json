@@ -224,5 +224,21 @@
     "updatedBy": "dianne",
     "createdAt": "2026-07-29T06:29:10.860Z",
     "createdBy": "dianne"
+  },
+  {
+    "id": "pg-16",
+    "path": "/nsw/ndis-provider-waverley",
+    "type": "page",
+    "title": "NDIS provider Waverley",
+    "seoTitle": "NDIS Provider Waverley | Disability Support Bondi Junction | Ahsan Care",
+    "seoDescription": "Registered NDIS provider across Waverley and Bondi Junction. Discreet in-home disability support for apartment living in the eastern beaches. Call 0416 623 317.",
+    "layout": "mockup",
+    "headerPartId": null,
+    "footerPartId": null,
+    "status": "published",
+    "updatedAt": "2026-07-29T06:29:47.814Z",
+    "updatedBy": "dianne",
+    "createdAt": "2026-07-29T06:29:47.814Z",
+    "createdBy": "dianne"
   }
 ]
