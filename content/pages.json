@@ -272,5 +272,21 @@
     "updatedBy": "dianne",
     "createdAt": "2026-07-29T06:31:58.337Z",
     "createdBy": "dianne"
+  },
+  {
+    "id": "pg-19",
+    "path": "/nsw/ndis-provider-woollahra",
+    "type": "location",
+    "title": "NDIS provider Woollahra",
+    "seoTitle": "NDIS Provider Woollahra | Disability Support Double Bay | Ahsan Care",
+    "seoDescription": "Registered NDIS provider across Woollahra and Double Bay. Private, discreet in-home disability support to help you stay in your own home. Call 0416 623 317.",
+    "layout": "mockup",
+    "headerPartId": null,
+    "footerPartId": null,
+    "status": "published",
+    "updatedAt": "2026-07-29T06:33:01.735Z",
+    "updatedBy": "dianne",
+    "createdAt": "2026-07-29T06:33:01.735Z",
+    "createdBy": "dianne"
   }
 ]
