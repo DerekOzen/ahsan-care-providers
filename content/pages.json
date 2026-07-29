@@ -160,5 +160,21 @@
     "updatedBy": "dianne",
     "createdAt": "2026-07-29T06:24:43.669Z",
     "createdBy": "dianne"
+  },
+  {
+    "id": "pg-12",
+    "path": "/nsw/ndis-provider-canada-bay",
+    "type": "location",
+    "title": "NDIS provider Canada Bay",
+    "seoTitle": "NDIS Provider Canada Bay | Disability Support Drummoyne | Ahsan Care",
+    "seoDescription": "Registered NDIS provider across Canada Bay and Drummoyne. Disability support for waterfront apartments and older homes alike, with the travel and access sorted. Call 0416 623 317.",
+    "layout": "mockup",
+    "headerPartId": null,
+    "footerPartId": null,
+    "status": "published",
+    "updatedAt": "2026-07-29T06:25:54.320Z",
+    "updatedBy": "dianne",
+    "createdAt": "2026-07-29T06:25:54.320Z",
+    "createdBy": "dianne"
   }
 ]
