@@ -144,5 +144,21 @@
     "updatedBy": "dianne",
     "createdAt": "2026-07-29T06:23:43.723Z",
     "createdBy": "dianne"
+  },
+  {
+    "id": "pg-11",
+    "path": "/nsw/ndis-provider-auburn",
+    "type": "location",
+    "title": "NDIS provider Auburn",
+    "seoTitle": "NDIS Provider Auburn | Registered Disability Support | Ahsan Care",
+    "seoDescription": "Registered NDIS provider in Auburn and the Cumberland area. Disability support with professional interpreting for NDIS paperwork. Personal care, home help and nursing. Call 0416 623 317.",
+    "layout": "mockup",
+    "headerPartId": null,
+    "footerPartId": null,
+    "status": "published",
+    "updatedAt": "2026-07-29T06:24:43.669Z",
+    "updatedBy": "dianne",
+    "createdAt": "2026-07-29T06:24:43.669Z",
+    "createdBy": "dianne"
   }
 ]
