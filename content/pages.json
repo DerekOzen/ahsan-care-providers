@@ -48,5 +48,21 @@
     "updatedBy": "dianne",
     "createdAt": "2026-07-29T06:12:15.852Z",
     "createdBy": "dianne"
+  },
+  {
+    "id": "pg-5",
+    "path": "/vic/ndis-provider-melbourne-cbd/",
+    "type": "location",
+    "title": "NDIS provider Melbourne CBD",
+    "seoTitle": "NDIS Provider Melbourne CBD | City Disability Support | Ahsan Care",
+    "seoDescription": "Registered NDIS provider in the Melbourne CBD and inner city. Disability support built for high-rise living, service lifts and building access. Call 0433 650 084.",
+    "layout": "mockup",
+    "headerPartId": null,
+    "footerPartId": null,
+    "status": "published",
+    "updatedAt": "2026-07-29T06:16:08.019Z",
+    "updatedBy": "dianne",
+    "createdAt": "2026-07-29T06:16:08.019Z",
+    "createdBy": "dianne"
   }
 ]
