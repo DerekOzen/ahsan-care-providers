@@ -32,5 +32,21 @@
     "updatedBy": "derek",
     "createdAt": "2026-07-29T01:42:24.654Z",
     "createdBy": "dianne"
+  },
+  {
+    "id": "pg-3",
+    "path": "/thank-you",
+    "type": "page",
+    "title": "Thank You",
+    "seoTitle": "Thank You - Sydney Paint Masters",
+    "seoDescription": "Thank you for contacting Sydney Paint Masters. One of our support staff will respond to your enquiry shortly.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "published",
+    "updatedAt": "2026-07-29T02:13:06.835Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-07-29T02:13:06.835Z",
+    "createdBy": "derek"
   }
 ]
