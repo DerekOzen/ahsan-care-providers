@@ -192,5 +192,21 @@
     "updatedBy": "dianne",
     "createdAt": "2026-07-29T06:26:54.879Z",
     "createdBy": "dianne"
+  },
+  {
+    "id": "pg-14",
+    "path": "/nsw/ndis-provider-burwood",
+    "type": "location",
+    "title": "NDIS provider Burwood",
+    "seoTitle": "NDIS Provider Burwood | Registered Disability Support | Ahsan Care",
+    "seoDescription": "Registered NDIS provider in Burwood, Croydon and Enfield. Close, responsive disability support in a compact inner-west council. Personal care, home help and nursing. Call 0416 623 317.",
+    "layout": "mockup",
+    "headerPartId": null,
+    "footerPartId": null,
+    "status": "published",
+    "updatedAt": "2026-07-29T06:27:58.218Z",
+    "updatedBy": "dianne",
+    "createdAt": "2026-07-29T06:27:58.218Z",
+    "createdBy": "dianne"
   }
 ]
