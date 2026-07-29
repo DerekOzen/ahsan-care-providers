@@ -26,11 +26,12 @@
     "layout": "mockup",
     "headerPartId": null,
     "footerPartId": null,
-    "status": "published",
-    "updatedAt": "2026-07-29T03:51:00.675Z",
+    "status": "deleted",
+    "updatedAt": "2026-07-29T05:40:45.871Z",
     "updatedBy": "dianne",
     "createdAt": "2026-07-29T03:50:36.592Z",
-    "createdBy": "dianne"
+    "createdBy": "dianne",
+    "isHome": false
   },
   {
     "id": "pg-4",
