@@ -128,5 +128,21 @@
     "updatedBy": "dianne",
     "createdAt": "2026-07-29T06:22:32.807Z",
     "createdBy": "dianne"
+  },
+  {
+    "id": "pg-10",
+    "path": "/nsw/ndis-provider-ryde",
+    "type": "location",
+    "title": "NDIS provider Ryde",
+    "seoTitle": "NDIS Provider Ryde | Registered Disability Support | Ahsan Care",
+    "seoDescription": "Registered NDIS provider in Ryde. Disability support across the City of Ryde, including help for school leavers moving into work, study and day programs. Call 0416 623 317.",
+    "layout": "mockup",
+    "headerPartId": null,
+    "footerPartId": null,
+    "status": "published",
+    "updatedAt": "2026-07-29T06:23:43.723Z",
+    "updatedBy": "dianne",
+    "createdAt": "2026-07-29T06:23:43.723Z",
+    "createdBy": "dianne"
   }
 ]
