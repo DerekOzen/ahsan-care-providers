@@ -256,5 +256,21 @@
     "updatedBy": "dianne",
     "createdAt": "2026-07-29T06:30:45.067Z",
     "createdBy": "dianne"
+  },
+  {
+    "id": "pg-18",
+    "path": "/nsw/ndis-provider-willoughby",
+    "type": "location",
+    "title": "NDIS provider Willoughby",
+    "seoTitle": "NDIS Provider Willoughby | Disability Support Chatswood | Ahsan Care",
+    "seoDescription": "Registered NDIS provider across Willoughby and Chatswood. Disability support built around the Chatswood interchange, with language-matched workers. Call 0416 623 317.",
+    "layout": "mockup",
+    "headerPartId": null,
+    "footerPartId": null,
+    "status": "published",
+    "updatedAt": "2026-07-29T06:31:58.337Z",
+    "updatedBy": "dianne",
+    "createdAt": "2026-07-29T06:31:58.337Z",
+    "createdBy": "dianne"
   }
 ]
