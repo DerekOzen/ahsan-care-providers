@@ -48,5 +48,21 @@
     "updatedBy": "dianne",
     "createdAt": "2026-07-29T03:50:36.592Z",
     "createdBy": "dianne"
+  },
+  {
+    "id": "pg-4",
+    "path": "/mi-painting",
+    "type": "page",
+    "title": "MI Painting",
+    "seoTitle": "Painters Inner West | Mi Painting & Maintenance",
+    "seoDescription": "Licensed painters across the Inner West, Balmain to Marrickville. Heritage terrace specialists, insured, free quotes. Call 0423 842 125.",
+    "layout": "mockup",
+    "headerPartId": null,
+    "footerPartId": null,
+    "status": "draft",
+    "updatedAt": "2026-07-29T03:54:08.438Z",
+    "updatedBy": "ishan",
+    "createdAt": "2026-07-29T03:54:08.438Z",
+    "createdBy": "ishan"
   }
 ]
