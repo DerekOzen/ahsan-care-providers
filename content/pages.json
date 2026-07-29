@@ -14,5 +14,21 @@
     "updatedBy": "dianne",
     "createdAt": "2026-07-29T03:26:20.360Z",
     "createdBy": "dianne"
+  },
+  {
+    "id": "pg-2",
+    "path": "/nsw/ndis-provider-parramatta/",
+    "type": "location",
+    "title": "NDIS Provider Parramatta",
+    "seoTitle": "NDIS Provider in Parramatta | Ahsan Care Provider",
+    "seoDescription": "Registered NDIS provider supporting Parramatta and Western Sydney. Culturally responsive support workers for personal care, home help, community access and nursing. Free quote.",
+    "layout": "mockup",
+    "headerPartId": null,
+    "footerPartId": null,
+    "status": "draft",
+    "updatedAt": "2026-07-29T03:30:59.621Z",
+    "updatedBy": "dianne",
+    "createdAt": "2026-07-29T03:30:59.621Z",
+    "createdBy": "dianne"
   }
 ]
