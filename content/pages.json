@@ -289,5 +289,21 @@
     "updatedBy": "dianne",
     "createdAt": "2026-07-29T06:33:01.735Z",
     "createdBy": "dianne"
+  },
+  {
+    "id": "pg-20",
+    "path": "/thank-you",
+    "type": "page",
+    "title": "Thank You",
+    "seoTitle": "Thank You | Ahsan Care Provider",
+    "seoDescription": "Thank you for contacting Ahsan Care Provider. We have received your enquiry and a member of our team will be in touch.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "published",
+    "updatedAt": "2026-07-29T07:14:14.733Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-07-29T07:14:14.733Z",
+    "createdBy": "derek"
   }
 ]
