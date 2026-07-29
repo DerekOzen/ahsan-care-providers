@@ -1,23 +1,5 @@
 [
   {
-    "id": "pg-1",
-    "path": "/",
-    "type": "page",
-    "title": "Home",
-    "seoTitle": "Registered NDIS Provider in Melbourne and Sydney | Ahsan Care",
-    "seoDescription": "Registered NDIS provider in Melbourne and Sydney. Screened, culturally responsive support workers, matched to your language, gender and routine. Free quote, no call-out fee.",
-    "layout": "mockup",
-    "headerPartId": "header-1",
-    "footerPartId": "footer-1",
-    "status": "deleted",
-    "updatedAt": "2026-07-29T03:17:58.579Z",
-    "updatedBy": "dianne",
-    "createdAt": "2026-07-28T10:56:46.887Z",
-    "createdBy": "derek",
-    "isHome": false,
-    "category": "Home"
-  },
-  {
     "id": "pg-2",
     "path": "/nsw/ndis-provider-parramatta/",
     "type": "location",
