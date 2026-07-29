@@ -65,22 +65,5 @@
     "createdAt": "2026-07-29T03:54:08.438Z",
     "createdBy": "ishan",
     "isHome": false
-  },
-  {
-    "id": "pg-5",
-    "path": "/nsw/ndis-provider-hornsby/",
-    "type": "location",
-    "title": "NDIS provider Hornsby",
-    "seoTitle": "NDIS Provider Hornsby | Registered Disability Support | Ahsan Care",
-    "seoDescription": "Registered NDIS provider in Hornsby. Personal care, household help, community access and nursing across the Hornsby Shire. Free quote, no call-out fee. Call 0416 623 317.",
-    "layout": "mockup",
-    "headerPartId": "header-1",
-    "footerPartId": null,
-    "status": "deleted",
-    "updatedAt": "2026-07-29T04:59:28.690Z",
-    "updatedBy": "dianne",
-    "createdAt": "2026-07-29T04:58:55.161Z",
-    "createdBy": "dianne",
-    "isHome": false
   }
 ]
