@@ -64,5 +64,21 @@
     "updatedBy": "dianne",
     "createdAt": "2026-07-29T06:16:08.019Z",
     "createdBy": "dianne"
+  },
+  {
+    "id": "pg-6",
+    "path": "/vic/ndis-provider-maribyrnong/",
+    "type": "location",
+    "title": "NDIS provider Maribyrnong",
+    "seoTitle": "NDIS Provider Maribyrnong | Disability Support Footscray | Ahsan Care",
+    "seoDescription": "Registered NDIS provider across Maribyrnong, from Footscray to Yarraville. A local inner-west team with the office close by in Derrimut. Call 0433 650 084.",
+    "layout": "mockup",
+    "headerPartId": null,
+    "footerPartId": null,
+    "status": "published",
+    "updatedAt": "2026-07-29T06:17:55.282Z",
+    "updatedBy": "dianne",
+    "createdAt": "2026-07-29T06:17:55.282Z",
+    "createdBy": "dianne"
   }
 ]
