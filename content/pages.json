@@ -769,5 +769,21 @@
     "updatedBy": "dianne",
     "createdAt": "2026-07-31T02:32:37.222Z",
     "createdBy": "dianne"
+  },
+  {
+    "id": "pg-50",
+    "path": "/ndis-provider-yarra",
+    "type": "location",
+    "title": "NDIS provider Yarra",
+    "seoTitle": "NDIS Provider Yarra | Registered Disability Support | Ahsan Care",
+    "seoDescription": "Registered NDIS provider covering the City of Yarra: personal care, home help, community access and nursing. We plan parking and access first. Free quote.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": null,
+    "status": "draft",
+    "updatedAt": "2026-07-31T02:33:53.862Z",
+    "updatedBy": "dianne",
+    "createdAt": "2026-07-31T02:33:53.862Z",
+    "createdBy": "dianne"
   }
 ]
