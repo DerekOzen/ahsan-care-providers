@@ -961,5 +961,21 @@
     "updatedBy": "dianne",
     "createdAt": "2026-07-31T03:28:43.051Z",
     "createdBy": "dianne"
+  },
+  {
+    "id": "pg-62",
+    "path": "/videos",
+    "type": "page",
+    "title": "Videos",
+    "seoTitle": "Videos | Ahsan Care Provider NDIS Support",
+    "seoDescription": "Watch Ahsan Care Provider videos. Meet our team, see our culturally responsive approach, and find answers to common NDIS questions for Melbourne and Sydney participants.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "updatedAt": "2026-07-31T03:29:33.063Z",
+    "updatedBy": "dianne",
+    "createdAt": "2026-07-31T03:29:33.063Z",
+    "createdBy": "dianne"
   }
 ]
