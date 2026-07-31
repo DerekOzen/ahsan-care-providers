@@ -993,5 +993,21 @@
     "updatedBy": "dianne",
     "createdAt": "2026-07-31T03:31:40.944Z",
     "createdBy": "dianne"
+  },
+  {
+    "id": "pg-64",
+    "path": "/blog",
+    "type": "page",
+    "title": "Blog",
+    "seoTitle": "Blog | NDIS Guidance and Updates | Ahsan Care Provider",
+    "seoDescription": "The Ahsan Care Provider blog. NDIS guidance, tips and updates for participants and families in Melbourne and Sydney, from a registered, culturally responsive provider.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "updatedAt": "2026-07-31T03:36:54.235Z",
+    "updatedBy": "dianne",
+    "createdAt": "2026-07-31T03:36:54.235Z",
+    "createdBy": "dianne"
   }
 ]
