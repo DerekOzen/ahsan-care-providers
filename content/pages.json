@@ -577,5 +577,21 @@
     "updatedBy": "dianne",
     "createdAt": "2026-07-31T02:20:46.161Z",
     "createdBy": "dianne"
+  },
+  {
+    "id": "pg-38",
+    "path": "/vic/ndis-provider-boroondara",
+    "type": "location",
+    "title": "NDIS provider Boroondara",
+    "seoTitle": "Registered NDIS Provider in Boroondara | Ahsan Care Provider",
+    "seoDescription": "Registered NDIS provider in Boroondara: Hawthorn, Kew, Camberwell, Balwyn. Personal care, household tasks, nursing, support around heritage homes. Free quote.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": null,
+    "status": "draft",
+    "updatedAt": "2026-07-31T02:21:39.100Z",
+    "updatedBy": "dianne",
+    "createdAt": "2026-07-31T02:21:39.100Z",
+    "createdBy": "dianne"
   }
 ]
