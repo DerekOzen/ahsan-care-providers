@@ -641,5 +641,21 @@
     "updatedBy": "dianne",
     "createdAt": "2026-07-31T02:24:46.801Z",
     "createdBy": "dianne"
+  },
+  {
+    "id": "pg-42",
+    "path": "/vic/ndis-provider-kingston",
+    "type": "location",
+    "title": "NDIS provider Kingston",
+    "seoTitle": "NDIS Provider Kingston | Registered NDIS Support | Ahsan Care",
+    "seoDescription": "Registered NDIS provider in Kingston. Personal care, household tasks, community access and nursing, with the same workers up and down the bay line. Free quote.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": null,
+    "status": "draft",
+    "updatedAt": "2026-07-31T02:25:44.226Z",
+    "updatedBy": "dianne",
+    "createdAt": "2026-07-31T02:25:44.226Z",
+    "createdBy": "dianne"
   }
 ]
