@@ -801,5 +801,21 @@
     "updatedBy": "dianne",
     "createdAt": "2026-07-31T02:34:44.328Z",
     "createdBy": "dianne"
+  },
+  {
+    "id": "pg-52",
+    "path": "/vic/ndis-provider-yarra-ranges",
+    "type": "location",
+    "title": "NDIS provider Yarra Ranges",
+    "seoTitle": "Registered NDIS Provider Yarra Ranges | Ahsan Care Provider",
+    "seoDescription": "Registered NDIS provider for the hilly Yarra Ranges, Lilydale to the Dandenong Ranges. Personal care, household help, community access, nursing. Free quote.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": null,
+    "status": "draft",
+    "updatedAt": "2026-07-31T02:37:10.773Z",
+    "updatedBy": "dianne",
+    "createdAt": "2026-07-31T02:37:10.773Z",
+    "createdBy": "dianne"
   }
 ]
