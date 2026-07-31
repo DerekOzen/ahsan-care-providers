@@ -561,5 +561,21 @@
     "updatedBy": "dianne",
     "createdAt": "2026-07-31T02:19:51.076Z",
     "createdBy": "dianne"
+  },
+  {
+    "id": "pg-37",
+    "path": "/vic/ndis-provider-stonnington",
+    "type": "location",
+    "title": "NDIS provider Stonnington",
+    "seoTitle": "Registered NDIS Provider in Stonnington | Ahsan Care Provider",
+    "seoDescription": "Registered NDIS provider in Stonnington: personal care, household tasks, community access and nursing, from South Yarra flats to Toorak homes. Free quote.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": null,
+    "status": "draft",
+    "updatedAt": "2026-07-31T02:20:46.161Z",
+    "updatedBy": "dianne",
+    "createdAt": "2026-07-31T02:20:46.161Z",
+    "createdBy": "dianne"
   }
 ]
