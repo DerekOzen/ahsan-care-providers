@@ -321,5 +321,21 @@
     "updatedBy": "dianne",
     "createdAt": "2026-07-31T01:41:57.957Z",
     "createdBy": "dianne"
+  },
+  {
+    "id": "pg-22",
+    "path": "/nsw/ndis-provider-inner-west",
+    "type": "location",
+    "title": "NDIS provider Inner West",
+    "seoTitle": "NDIS Provider Inner West | Disability Support | Ahsan Care",
+    "seoDescription": "Registered NDIS provider supporting terraces, warehouse conversions and share houses across the Inner West, from Marrickville to Balmain. Free quote.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": null,
+    "status": "draft",
+    "updatedAt": "2026-07-31T01:57:57.321Z",
+    "updatedBy": "dianne",
+    "createdAt": "2026-07-31T01:57:57.321Z",
+    "createdBy": "dianne"
   }
 ]
