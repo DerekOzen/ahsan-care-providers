@@ -785,5 +785,21 @@
     "updatedBy": "dianne",
     "createdAt": "2026-07-31T02:33:53.862Z",
     "createdBy": "dianne"
+  },
+  {
+    "id": "pg-51",
+    "path": "/vic/ndis-provider-moonee-valley",
+    "type": "location",
+    "title": "NDIS provider Moonee Valley",
+    "seoTitle": "Registered NDIS Provider in Moonee Valley | Ahsan Care Provider",
+    "seoDescription": "Registered NDIS provider in Moonee Valley (Moonee Ponds, Essendon, Ascot Vale). Personal care, household, nursing and tram or train travel support. Free quote.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": null,
+    "status": "draft",
+    "updatedAt": "2026-07-31T02:34:44.328Z",
+    "updatedBy": "dianne",
+    "createdAt": "2026-07-31T02:34:44.328Z",
+    "createdBy": "dianne"
   }
 ]
