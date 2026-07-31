@@ -465,5 +465,21 @@
     "updatedBy": "dianne",
     "createdAt": "2026-07-31T02:12:22.916Z",
     "createdBy": "dianne"
+  },
+  {
+    "id": "pg-31",
+    "path": "/vic/ndis-provider-glen-eira",
+    "type": "location",
+    "title": "NDIS provider Glen Eira",
+    "seoTitle": "Registered NDIS Provider in Glen Eira, VIC | Ahsan Care",
+    "seoDescription": "Registered NDIS provider in Glen Eira: personal care, household tasks, community access and nursing, matched to faith, culture and dietary needs. Free quote.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": null,
+    "status": "draft",
+    "updatedAt": "2026-07-31T02:13:18.787Z",
+    "updatedBy": "dianne",
+    "createdAt": "2026-07-31T02:13:18.787Z",
+    "createdBy": "dianne"
   }
 ]
