@@ -497,5 +497,21 @@
     "updatedBy": "dianne",
     "createdAt": "2026-07-31T02:14:30.320Z",
     "createdBy": "dianne"
+  },
+  {
+    "id": "pg-33",
+    "path": "/vic/ndis-provider-knox",
+    "type": "location",
+    "title": "NDIS provider Knox",
+    "seoTitle": "Registered NDIS Provider in Knox, VIC | Ahsan Care Provider",
+    "seoDescription": "Registered NDIS provider in Knox. A clear, honest explanation of what a support worker does, and how that differs from a nurse or a cleaner. Free quote.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": null,
+    "status": "draft",
+    "updatedAt": "2026-07-31T02:15:48.661Z",
+    "updatedBy": "dianne",
+    "createdAt": "2026-07-31T02:15:48.661Z",
+    "createdBy": "dianne"
   }
 ]
