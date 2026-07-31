@@ -433,5 +433,21 @@
     "updatedBy": "dianne",
     "createdAt": "2026-07-31T02:09:25.372Z",
     "createdBy": "dianne"
+  },
+  {
+    "id": "pg-29",
+    "path": "/vic/ndis-provider-whittlesea",
+    "type": "location",
+    "title": "NDIS provider Whittlesea",
+    "seoTitle": "Registered NDIS Provider in Whittlesea | Ahsan Care Provider",
+    "seoDescription": "Registered NDIS provider across Whittlesea, including Epping, Lalor, Mernda, Mill Park and Thomastown. Separate plans, one household. Get a free quote.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": null,
+    "status": "draft",
+    "updatedAt": "2026-07-31T02:10:46.311Z",
+    "updatedBy": "dianne",
+    "createdAt": "2026-07-31T02:10:46.311Z",
+    "createdBy": "dianne"
   }
 ]
