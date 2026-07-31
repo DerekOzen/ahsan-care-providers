@@ -913,5 +913,21 @@
     "updatedBy": "dianne",
     "createdAt": "2026-07-31T03:23:16.938Z",
     "createdBy": "dianne"
+  },
+  {
+    "id": "pg-59",
+    "path": "/ndis-nursing-care",
+    "type": "service",
+    "title": "NDIS Nursing Care",
+    "seoTitle": "NDIS Nursing Care and Community Nursing | Ahsan Care Provider",
+    "seoDescription": "Registered NDIS provider for nursing care across Melbourne and Sydney. Community nursing including wound care, medication support and health monitoring, with care plans and clinical oversight.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "updatedAt": "2026-07-31T03:24:15.915Z",
+    "updatedBy": "dianne",
+    "createdAt": "2026-07-31T03:24:15.915Z",
+    "createdBy": "dianne"
   }
 ]
