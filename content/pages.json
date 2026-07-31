@@ -353,5 +353,21 @@
     "updatedBy": "dianne",
     "createdAt": "2026-07-31T01:59:38.839Z",
     "createdBy": "dianne"
+  },
+  {
+    "id": "pg-24",
+    "path": "/nsw/ndis-provider-sutherland-shire",
+    "type": "location",
+    "title": "NDIS provider Sutherland Shire",
+    "seoTitle": "Registered NDIS Provider in Sutherland Shire | Ahsan Care",
+    "seoDescription": "Registered NDIS provider in Sutherland Shire: personal care, household help and community support for those long cared for by one parent. Free quote.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": null,
+    "status": "draft",
+    "updatedAt": "2026-07-31T02:01:12.793Z",
+    "updatedBy": "dianne",
+    "createdAt": "2026-07-31T02:01:12.793Z",
+    "createdBy": "dianne"
   }
 ]
