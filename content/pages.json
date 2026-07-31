@@ -305,5 +305,21 @@
     "updatedBy": "derek",
     "createdAt": "2026-07-29T07:14:14.733Z",
     "createdBy": "derek"
+  },
+  {
+    "id": "pg-21",
+    "path": "/nsw/ndis-provider-ku-ring-gai",
+    "type": "location",
+    "title": "NDIS provider Ku-ring-gai",
+    "seoTitle": "Registered NDIS Provider in Ku-ring-gai | Ahsan Care Provider",
+    "seoDescription": "Registered NDIS provider in Ku-ring-gai: personal care, household tasks, social participation and nursing care from the same small team. Free quote.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": null,
+    "status": "draft",
+    "updatedAt": "2026-07-31T01:41:57.957Z",
+    "updatedBy": "dianne",
+    "createdAt": "2026-07-31T01:41:57.957Z",
+    "createdBy": "dianne"
   }
 ]
