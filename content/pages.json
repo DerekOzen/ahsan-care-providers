@@ -529,5 +529,21 @@
     "updatedBy": "dianne",
     "createdAt": "2026-07-31T02:18:12.289Z",
     "createdBy": "dianne"
+  },
+  {
+    "id": "pg-35",
+    "path": "/vic/ndis-provider-cardinia",
+    "type": "location",
+    "title": "NDIS provider Cardinia",
+    "seoTitle": "Registered NDIS Provider in Cardinia | Ahsan Care Provider",
+    "seoDescription": "Registered NDIS provider across Cardinia Shire, from Pakenham and Officer to the Dandenong Ranges hill towns. We learn how you communicate first. Free quote.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": null,
+    "status": "draft",
+    "updatedAt": "2026-07-31T02:19:00.937Z",
+    "updatedBy": "dianne",
+    "createdAt": "2026-07-31T02:19:00.937Z",
+    "createdBy": "dianne"
   }
 ]
