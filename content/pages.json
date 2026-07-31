@@ -513,5 +513,21 @@
     "updatedBy": "dianne",
     "createdAt": "2026-07-31T02:15:48.661Z",
     "createdBy": "dianne"
+  },
+  {
+    "id": "pg-34",
+    "path": "/vic/ndis-provider-greater-dandenong",
+    "type": "location",
+    "title": "NDIS provider Greater Dandenong",
+    "seoTitle": "Registered NDIS Provider in Greater Dandenong | Ahsan Care",
+    "seoDescription": "Registered NDIS provider in Greater Dandenong. We explain your first invoice line by line, check the rate is right, and match workers by language. Free quote.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": null,
+    "status": "draft",
+    "updatedAt": "2026-07-31T02:18:12.289Z",
+    "updatedBy": "dianne",
+    "createdAt": "2026-07-31T02:18:12.289Z",
+    "createdBy": "dianne"
   }
 ]
