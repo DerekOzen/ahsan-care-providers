@@ -881,5 +881,21 @@
     "updatedBy": "dianne",
     "createdAt": "2026-07-31T03:12:22.604Z",
     "createdBy": "dianne"
+  },
+  {
+    "id": "pg-57",
+    "path": "/ndis-household-tasks",
+    "type": "service",
+    "title": "NDIS Household Tasks",
+    "seoTitle": "NDIS Household Tasks, Cleaning and Domestic Assistance | Ahsan Care",
+    "seoDescription": "Registered NDIS provider for household tasks across Melbourne and Sydney. NDIS cleaning, laundry, meal preparation and domestic assistance scheduled to suit you. Get a free quote.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "updatedAt": "2026-07-31T03:18:06.935Z",
+    "updatedBy": "dianne",
+    "createdAt": "2026-07-31T03:18:06.935Z",
+    "createdBy": "dianne"
   }
 ]
