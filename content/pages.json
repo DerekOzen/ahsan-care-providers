@@ -449,5 +449,21 @@
     "updatedBy": "dianne",
     "createdAt": "2026-07-31T02:10:46.311Z",
     "createdBy": "dianne"
+  },
+  {
+    "id": "pg-30",
+    "path": "/vic/ndis-provider-whitehorse",
+    "type": "location",
+    "title": "NDIS provider Whitehorse",
+    "seoTitle": "Registered NDIS Provider in Whitehorse | Ahsan Care Provider",
+    "seoDescription": "Registered NDIS provider in Whitehorse, with clear notes for your plan review. Personal care, household help, community participation and nursing. Free quote.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": null,
+    "status": "draft",
+    "updatedAt": "2026-07-31T02:12:22.916Z",
+    "updatedBy": "dianne",
+    "createdAt": "2026-07-31T02:12:22.916Z",
+    "createdBy": "dianne"
   }
 ]
