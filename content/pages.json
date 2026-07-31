@@ -593,5 +593,21 @@
     "updatedBy": "dianne",
     "createdAt": "2026-07-31T02:21:39.100Z",
     "createdBy": "dianne"
+  },
+  {
+    "id": "pg-39",
+    "path": "/vic/ndis-provider-hobsons-bay",
+    "type": "location",
+    "title": "NDIS provider Hobsons Bay",
+    "seoTitle": "Registered NDIS Provider in Hobsons Bay | Ahsan Care Provider",
+    "seoDescription": "Registered NDIS provider in Hobsons Bay, from Williamstown to Altona and Laverton. Personal care, household help, community access, nursing care. Free quote.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": null,
+    "status": "draft",
+    "updatedAt": "2026-07-31T02:22:28.967Z",
+    "updatedBy": "dianne",
+    "createdAt": "2026-07-31T02:22:28.967Z",
+    "createdBy": "dianne"
   }
 ]
