@@ -588,8 +588,8 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": null,
-    "status": "draft",
-    "updatedAt": "2026-07-31T02:21:39.100Z",
+    "status": "published",
+    "updatedAt": "2026-07-31T02:21:51.316Z",
     "updatedBy": "dianne",
     "createdAt": "2026-07-31T02:21:39.100Z",
     "createdBy": "dianne"
