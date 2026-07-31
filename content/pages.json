@@ -721,5 +721,21 @@
     "updatedBy": "dianne",
     "createdAt": "2026-07-31T02:30:04.121Z",
     "createdBy": "dianne"
+  },
+  {
+    "id": "pg-47",
+    "path": "/vic/ndis-provider-manningham",
+    "type": "location",
+    "title": "NDIS provider Manningham",
+    "seoTitle": "Registered NDIS Provider in Manningham | Ahsan Care Provider",
+    "seoDescription": "Registered NDIS provider in Manningham, built around buses, not a train line. Personal care, household help, community access, nursing care. Free quote.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": null,
+    "status": "draft",
+    "updatedAt": "2026-07-31T02:31:03.876Z",
+    "updatedBy": "dianne",
+    "createdAt": "2026-07-31T02:31:03.876Z",
+    "createdBy": "dianne"
   }
 ]
