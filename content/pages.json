@@ -417,5 +417,21 @@
     "updatedBy": "dianne",
     "createdAt": "2026-07-31T02:07:50.932Z",
     "createdBy": "dianne"
+  },
+  {
+    "id": "pg-28",
+    "path": "/vic/ndis-provider-wyndham",
+    "type": "location",
+    "title": "NDIS provider Wyndham",
+    "seoTitle": "Registered NDIS Provider in Wyndham, VIC | Ahsan Care Provider",
+    "seoDescription": "Registered NDIS provider across Wyndham. Personal care, household help, community support and nursing that holds steady through a house move. Free quote.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": null,
+    "status": "draft",
+    "updatedAt": "2026-07-31T02:09:25.372Z",
+    "updatedBy": "dianne",
+    "createdAt": "2026-07-31T02:09:25.372Z",
+    "createdBy": "dianne"
   }
 ]
