@@ -865,5 +865,21 @@
     "updatedBy": "dianne",
     "createdAt": "2026-07-31T02:41:39.750Z",
     "createdBy": "dianne"
+  },
+  {
+    "id": "pg-56",
+    "path": "/ndis-assist-personal-activities",
+    "type": "service",
+    "title": "NDIS Assist Personal Activities",
+    "seoTitle": "NDIS Assist Personal Activities and Personal Care | Ahsan Care",
+    "seoDescription": "Registered NDIS provider for assist personal activities across Melbourne and Sydney. Respectful personal care and daily living support with gender and language matched workers. Enquire today.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "updatedAt": "2026-07-31T03:12:22.604Z",
+    "updatedBy": "dianne",
+    "createdAt": "2026-07-31T03:12:22.604Z",
+    "createdBy": "dianne"
   }
 ]
