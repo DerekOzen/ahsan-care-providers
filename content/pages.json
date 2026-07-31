@@ -772,7 +772,7 @@
   },
   {
     "id": "pg-50",
-    "path": "/ndis-provider-yarra",
+    "path": "/vic/ndis-provider-yarra",
     "type": "location",
     "title": "NDIS provider Yarra",
     "seoTitle": "NDIS Provider Yarra | Registered Disability Support | Ahsan Care",
@@ -781,7 +781,7 @@
     "headerPartId": "header-1",
     "footerPartId": null,
     "status": "published",
-    "updatedAt": "2026-07-31T02:34:05.622Z",
+    "updatedAt": "2026-07-31T02:35:51.181Z",
     "updatedBy": "dianne",
     "createdAt": "2026-07-31T02:33:53.862Z",
     "createdBy": "dianne"
