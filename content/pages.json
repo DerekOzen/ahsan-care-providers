@@ -876,8 +876,8 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
-    "updatedAt": "2026-07-31T03:12:22.604Z",
+    "status": "published",
+    "updatedAt": "2026-07-31T03:17:21.329Z",
     "updatedBy": "dianne",
     "createdAt": "2026-07-31T03:12:22.604Z",
     "createdBy": "dianne"
