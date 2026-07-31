@@ -481,5 +481,21 @@
     "updatedBy": "dianne",
     "createdAt": "2026-07-31T02:13:18.787Z",
     "createdBy": "dianne"
+  },
+  {
+    "id": "pg-32",
+    "path": "/vic/ndis-provider-bayside",
+    "type": "location",
+    "title": "NDIS provider Bayside",
+    "seoTitle": "NDIS Provider Bayside | Discreet NDIS Support | Ahsan Care",
+    "seoDescription": "Registered NDIS provider with discreet, low-key support across Bayside, from Brighton to Beaumaris: personal care, household tasks, nursing. Free quote.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": null,
+    "status": "draft",
+    "updatedAt": "2026-07-31T02:14:30.320Z",
+    "updatedBy": "dianne",
+    "createdAt": "2026-07-31T02:14:30.320Z",
+    "createdBy": "dianne"
   }
 ]
