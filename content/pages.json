@@ -369,5 +369,21 @@
     "updatedBy": "dianne",
     "createdAt": "2026-07-31T02:01:12.793Z",
     "createdBy": "dianne"
+  },
+  {
+    "id": "pg-25",
+    "path": "/nsw/ndis-provider-northern-beaches",
+    "type": "location",
+    "title": "NDIS provider Northern Beaches",
+    "seoTitle": "Registered NDIS Provider on the Northern Beaches | Ahsan Care",
+    "seoDescription": "Registered NDIS support across the Northern Beaches, from Manly to Palm Beach. Personal care, household help, community access and nursing. Get a free quote.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": null,
+    "status": "draft",
+    "updatedAt": "2026-07-31T02:05:03.153Z",
+    "updatedBy": "dianne",
+    "createdAt": "2026-07-31T02:05:03.153Z",
+    "createdBy": "dianne"
   }
 ]
