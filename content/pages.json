@@ -545,5 +545,21 @@
     "updatedBy": "dianne",
     "createdAt": "2026-07-31T02:19:00.937Z",
     "createdBy": "dianne"
+  },
+  {
+    "id": "pg-36",
+    "path": "/vic/ndis-provider-monash",
+    "type": "location",
+    "title": "NDIS provider Monash",
+    "seoTitle": "Registered NDIS Provider in Monash | Ahsan Care Provider",
+    "seoDescription": "Registered NDIS provider in Monash: a steady weekly routine with room for extra hours. Personal care, household help, community access, nursing. Free quote.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": null,
+    "status": "draft",
+    "updatedAt": "2026-07-31T02:19:51.076Z",
+    "updatedBy": "dianne",
+    "createdAt": "2026-07-31T02:19:51.076Z",
+    "createdBy": "dianne"
   }
 ]
