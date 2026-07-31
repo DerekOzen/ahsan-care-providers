@@ -929,5 +929,21 @@
     "updatedBy": "dianne",
     "createdAt": "2026-07-31T03:24:15.915Z",
     "createdBy": "dianne"
+  },
+  {
+    "id": "pg-60",
+    "path": "/about",
+    "type": "page",
+    "title": "About",
+    "seoTitle": "About Ahsan Care Provider | Registered NDIS Provider Melbourne and Sydney",
+    "seoDescription": "About Ahsan Care Provider, a registered NDIS provider delivering respectful, culturally responsive disability support across Melbourne and Sydney, with workers matched to you.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "updatedAt": "2026-07-31T03:26:17.023Z",
+    "updatedBy": "dianne",
+    "createdAt": "2026-07-31T03:26:17.023Z",
+    "createdBy": "dianne"
   }
 ]
