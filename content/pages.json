@@ -737,5 +737,21 @@
     "updatedBy": "dianne",
     "createdAt": "2026-07-31T02:31:03.876Z",
     "createdBy": "dianne"
+  },
+  {
+    "id": "pg-48",
+    "path": "/vic/ndis-provider-casey",
+    "type": "location",
+    "title": "NDIS provider Casey",
+    "seoTitle": "Registered NDIS Provider in Casey | Ahsan Care Provider",
+    "seoDescription": "Registered NDIS provider across Casey's growing suburbs, Cranbourne to Clyde North, Berwick, Narre Warren. Personal care, household help, nursing. Free quote.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": null,
+    "status": "draft",
+    "updatedAt": "2026-07-31T02:31:49.413Z",
+    "updatedBy": "dianne",
+    "createdAt": "2026-07-31T02:31:49.413Z",
+    "createdBy": "dianne"
   }
 ]
