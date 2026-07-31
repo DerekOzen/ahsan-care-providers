@@ -337,5 +337,21 @@
     "updatedBy": "dianne",
     "createdAt": "2026-07-31T01:57:57.321Z",
     "createdBy": "dianne"
+  },
+  {
+    "id": "pg-23",
+    "path": "/nsw/ndis-provider-canterbury-bankstown",
+    "type": "location",
+    "title": "NDIS provider Canterbury-Bankstown",
+    "seoTitle": "Registered NDIS Provider in Canterbury-Bankstown | Ahsan Care",
+    "seoDescription": "Registered NDIS provider across Canterbury-Bankstown, from Bankstown to Campsie, Earlwood and the Georges River suburbs. Workers matched to you. Free quote.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": null,
+    "status": "draft",
+    "updatedAt": "2026-07-31T01:59:38.839Z",
+    "updatedBy": "dianne",
+    "createdAt": "2026-07-31T01:59:38.839Z",
+    "createdBy": "dianne"
   }
 ]
