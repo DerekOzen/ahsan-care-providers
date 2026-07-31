@@ -385,5 +385,21 @@
     "updatedBy": "dianne",
     "createdAt": "2026-07-31T02:05:03.153Z",
     "createdBy": "dianne"
+  },
+  {
+    "id": "pg-26",
+    "path": "/nsw/ndis-provider-north-shore",
+    "type": "location",
+    "title": "NDIS provider North Shore",
+    "seoTitle": "Registered NDIS Provider on the North Shore | Ahsan Care",
+    "seoDescription": "Registered NDIS provider across Mosman, Hunters Hill and Lane Cove: personal care, household, community access, nursing, built for steep streets. Free quote.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": null,
+    "status": "draft",
+    "updatedAt": "2026-07-31T02:06:28.546Z",
+    "updatedBy": "dianne",
+    "createdAt": "2026-07-31T02:06:28.546Z",
+    "createdBy": "dianne"
   }
 ]
