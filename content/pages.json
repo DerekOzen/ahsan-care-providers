@@ -609,5 +609,21 @@
     "updatedBy": "dianne",
     "createdAt": "2026-07-31T02:22:28.967Z",
     "createdBy": "dianne"
+  },
+  {
+    "id": "pg-40",
+    "path": "/vic/ndis-provider-darebin",
+    "type": "location",
+    "title": "NDIS provider Darebin",
+    "seoTitle": "Registered NDIS Provider in Darebin | Ahsan Care Provider",
+    "seoDescription": "Registered NDIS provider for Darebin: personal activities, household tasks, community participation and nursing, with clear written shift notes. Free quote.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": null,
+    "status": "draft",
+    "updatedAt": "2026-07-31T02:23:14.144Z",
+    "updatedBy": "dianne",
+    "createdAt": "2026-07-31T02:23:14.144Z",
+    "createdBy": "dianne"
   }
 ]
