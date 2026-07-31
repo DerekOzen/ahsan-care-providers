@@ -689,5 +689,21 @@
     "updatedBy": "dianne",
     "createdAt": "2026-07-31T02:28:08.206Z",
     "createdBy": "dianne"
+  },
+  {
+    "id": "pg-45",
+    "path": "/vic/ndis-provider-maroondah",
+    "type": "location",
+    "title": "NDIS provider Maroondah",
+    "seoTitle": "Registered NDIS Provider in Maroondah | Ahsan Care Provider",
+    "seoDescription": "Registered NDIS provider in Maroondah, working around the Ringwood interchange. Personal care, household help, community access and nursing care. Free quote.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": null,
+    "status": "draft",
+    "updatedAt": "2026-07-31T02:29:17.147Z",
+    "updatedBy": "dianne",
+    "createdAt": "2026-07-31T02:29:17.147Z",
+    "createdBy": "dianne"
   }
 ]
