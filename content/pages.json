@@ -401,5 +401,21 @@
     "updatedBy": "dianne",
     "createdAt": "2026-07-31T02:06:28.546Z",
     "createdBy": "dianne"
+  },
+  {
+    "id": "pg-27",
+    "path": "/nsw/ndis-provider-hills-shire",
+    "type": "location",
+    "title": "NDIS provider Hills Shire",
+    "seoTitle": "Registered NDIS Provider in The Hills Shire | Ahsan Care Provider",
+    "seoDescription": "Registered NDIS provider across The Hills Shire, from Castle Hill to Kenthurst. Personal care, household help, community access and nursing. Free quote.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": null,
+    "status": "draft",
+    "updatedAt": "2026-07-31T02:07:50.932Z",
+    "updatedBy": "dianne",
+    "createdAt": "2026-07-31T02:07:50.932Z",
+    "createdBy": "dianne"
   }
 ]
