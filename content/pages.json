@@ -35,7 +35,7 @@
   },
   {
     "id": "pg-3",
-    "path": "/vic/ndis-provider-frankston/",
+    "path": "/vic/ndis-provider-frankston",
     "type": "location",
     "title": "NDIS provider Frankston",
     "seoTitle": "NDIS Provider Frankston | Registered Disability Support | Ahsan Care",
@@ -44,7 +44,7 @@
     "headerPartId": "header-1",
     "footerPartId": null,
     "status": "published",
-    "updatedAt": "2026-08-03T04:28:54.860Z",
+    "updatedAt": "2026-08-07T06:52:08.186Z",
     "updatedBy": "vipin",
     "createdAt": "2026-07-29T06:12:15.852Z",
     "createdBy": "dianne"
