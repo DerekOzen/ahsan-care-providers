@@ -51,7 +51,7 @@
   },
   {
     "id": "pg-5",
-    "path": "/vic/ndis-provider-melbourne-cbd/",
+    "path": "/vic/ndis-provider-melbourne-cbd",
     "type": "location",
     "title": "NDIS provider Melbourne CBD",
     "seoTitle": "NDIS Provider Melbourne CBD | City Disability Support | Ahsan Care",
@@ -60,7 +60,7 @@
     "headerPartId": "header-1",
     "footerPartId": null,
     "status": "published",
-    "updatedAt": "2026-08-03T04:55:20.253Z",
+    "updatedAt": "2026-08-10T01:32:59.512Z",
     "updatedBy": "vipin",
     "createdAt": "2026-07-29T06:16:08.019Z",
     "createdBy": "dianne"
